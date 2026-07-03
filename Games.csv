@@ -1,3 +1,4 @@
-﻿Title,Image,Description,Publisher,Year,BestPlayers,MinPlayers,MaxPlayers,Supports,Teams,MinTime,MaxTime,Age,Complexity,Tags
-Wingspan,https://raw.githubusercontent.com/RBTGames/rbt-demo-library/refs/heads/main/images/Wingspan.jpg,Build a thriving wildlife preserve and attract birds to your habitats.,Stonemaier Games,2019,3,1,5,1|2|3|4|5,FALSE,40,70,10,Medium,Birds|Engine Building|Card Drafting
-Azul,https://raw.githubusercontent.com/RBTGames/rbt-demo-library/refs/heads/main/images/Azul.jpg,Draft colorful tiles and create the most beautiful palace mosaic.,Next Move Games,2017,4,2,4,2|3|4,FALSE,30,45,8,Light,Abstract|Tile Placement
+﻿Title,Image,Description,Publisher,Year,BestPlayers,MinPlayers,MaxPlayers,Supports,Teams,MinTime,MaxTime,Age,Complexity,StaffPick,Tags
+Wingspan,https://github.com/RBTGames/rbt-demo-library/blob/main/images/Wingspan.jpg,Build a thriving wildlife preserve and attract birds to your habitats.,Stonemaier Games,2019,3,1,5,1|2|3|4|5,FALSE,40,70,10,Medium,TRUE,Birds|Engine Building|Card Drafting
+Azul,https://github.com/RBTGames/rbt-demo-library/blob/main/images/Azul.jpg,Draft colorful tiles and create the most beautiful palace mosaic.,Next Move Games,2017,4,2,4,2|3|4,FALSE,30,45,8,Light,,Abstract|Tile Placement
+Lumberjacks with Rocket Launchers,,It is what it is!,Not Me!,2042,3,3,8,3|4|5|6|7|8,FALSE,15,60,8,Light,TRUE,Silly|Plaid
